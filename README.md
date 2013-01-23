@@ -16,3 +16,5 @@ Built and ran on Ubuntu 12.04 in September 2012.
 
 See simple.R for an example using just one.
 
+Note: The text of the platforms is in Spanish.
+
